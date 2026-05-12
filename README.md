@@ -1,4 +1,5 @@
-# calculation_error_solution
+#calculation_error_solution
+
 collection of methods for solving problems from the book 'Numerical Calculations' by Dr. Bahman Mehri
 
 
